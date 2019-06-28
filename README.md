@@ -1,5 +1,7 @@
 # Sample node.js BE to generate Consent receipt JWT token
 
+**NOTE: This is a reference implementation. It should not be considered as secure and to be used in a production environment. (Private key is part of the code.)**
+
 ## API Resources
 
 
